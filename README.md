@@ -22,7 +22,7 @@ pip install -r requirements.txt
 
 The interface and scoring process are shown below. The scoring process is obfuscated by `pyarmor` because of the commercial usage.
 
-![img](https://github.com/Kevinatil/DanceInCloudScoringDemo/blob/main/media/website.gif)
+![img](https://github.com/Kevinatil/MoveImitatingGame-DanceInCloud/blob/main/media/show.gif)
 
 ## Usage
 

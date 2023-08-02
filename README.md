@@ -5,7 +5,7 @@ A game for movements imitating and scoring using scoring process designed by *Da
 
 
 ## Introduction
-This repo provides a game to do movement imitating scoring and evaluating to test videos based on standard action videos. You can choose any movement video with single person as the standard video.
+This repo provides a game to do movement imitating scoring and evaluating to test videos based on standard movement videos. You can choose any movement video with single person as the standard video.
 
 This version supports *video* scoring. You can choose a ready-made video or record a video in advance as standard video. After choosing the standard video, you can record the test video and do the movements in the standard video as well as you can. the framework will do pose estimation, score regression. The score includes dancing movement score and rhythm score. The dancing movement score includes total score and detail scores for each joint.
 

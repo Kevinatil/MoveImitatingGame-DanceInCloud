@@ -1,0 +1,9 @@
+tkinter
+opencv-python
+numpy
+dtw-python
+scipy
+pygame
+matplotlib
+pandas
+pyarmor

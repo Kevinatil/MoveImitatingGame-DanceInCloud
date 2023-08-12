@@ -82,3 +82,7 @@ def photo_score(ns,camera=True,pose=False,del_all=True,duration=3):
                                        origin_json_path, 
                                        imitate_json_path)
 ```
+
+## Acknowledgement
+
+We thank Shanghai Film Art Academy for the standard dancing videos, test dancing videos and official scores for model training.
